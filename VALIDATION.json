@@ -1,0 +1,12 @@
+{
+  "repository": "new_project",
+  "scope": "Portable engineering tests and explicitly synthetic metadata demo; no biological research rerun",
+  "tests_run": 81,
+  "tests_exit_code": 0,
+  "demo_exit_code": 0,
+  "wall_seconds": 0.5140233463607728,
+  "python": "3.12.3",
+  "test_command": "PYTHONPATH=src python -B -m unittest discover -s tests -v",
+  "model_training": false,
+  "external_requests": false
+}
